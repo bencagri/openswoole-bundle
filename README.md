@@ -1,4 +1,4 @@
-# Swoole Bundle
+# Open Swoole Bundle
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/1d73a214622bba769171/maintainability)](https://codeclimate.com/github/k911/swoole-bundle/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/1d73a214622bba769171/test_coverage)](https://codeclimate.com/github/k911/swoole-bundle/test_coverage)
@@ -6,6 +6,8 @@
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
 
 Symfony integration with [Swoole](https://www.swoole.co.uk/) to speed up your applications.
+
+This repository is fork of [K911 Swoole Bundle](https://github.com/k911/swoole-bundle)
 
 ---
 
