@@ -16,6 +16,10 @@
         "name": "Konrad Obal",
         "email": "konrad.obal@gmail.com",
         "homepage": "https://github.com/k911"
+    },{
+        "name": "Cagri Kirbiyik",
+        "email": "hi@bencagri.com",
+        "homepage": "https://github.com/bencagri"
     }],
     "require": {
         "php": "^7.4|^8.0",
